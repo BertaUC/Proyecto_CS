@@ -21,6 +21,4 @@ Esta aplicación web sencilla permite a los usuarios crear, editar y eliminar ta
 <li>Instala las dependencias: <code>npm install</code></li> 
 <li>Inicia la aplicación: <code>npm start</code></li> 
 </ol> 
-<strong>Demo:</strong>  [Enlace a la demostración en vivo o GIF animado] 
-<strong>Contribuciones:</strong>  ¡Las contribuciones son bienvenidas!  Abre un issue para cualquier sugerencia o error. 
- 
+
