@@ -1,0 +1,14 @@
+<h1>Proyecto con Integración Continua/Continua Integración (CI/CD)</h1> 
+Este proyecto demuestra el uso de GitHub Actions para automatizar la integración continua y la entrega continua. 
+<strong>Funcionalidades:</strong> 
+<ul> 
+<li>GitHub Actions para construir, probar y desplegar la aplicación automáticamente.</li> 
+</ul> 
+<strong>Tecnologías:</strong> 
+<ul> 
+<li>Git</li> 
+<li>GitHub Actions</li> 
+<li>[Lenguaje de programación y framework de la aplicación]</li> 
+</ul> 
+<strong>Workflows:</strong> (Descripción de los workflows de GitHub Actions) 
+ 
