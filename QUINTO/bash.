@@ -1,0 +1,21 @@
+<h1>Script de Backup Automático</h1> 
+Este script automatiza el proceso de backup de archivos importantes. 
+<strong>Funcionalidades:</strong> 
+<ul> 
+<li>Realiza un backup de los archivos especificados en una ubicación determinada.</li> 
+<li>Crea un registro de los backups realizados.</li> 
+<li>Permite programar la ejecución del script.</li> 
+</ul> 
+<strong>Tecnologías:</strong> 
+<ul> 
+<li>Bash (o PowerShell)</li> 
+<li>Cron (o Task Scheduler)</li> 
+</ul> 
+<strong>Instalación:</strong> 
+<ol> 
+<li>Clona el repositorio: <code>git clone &lt;URL del repositorio&gt;</code></li> 
+<li>Configura el script con tus propias rutas y opciones.</li> 
+<li>Programa la ejecución del script usando Cron (Linux) o Task Scheduler (Windows).</li> 
+</ol> 
+<strong>Contribuciones:</strong> 
+Se pueden agregar opciones para diferentes tipos de backups, como backups incrementales o backups a la nube. 
